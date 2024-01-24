@@ -1,0 +1,59 @@
+body {
+  background-color: aqua;
+  color: black;
+}
+
+.wrapper {
+  width: 800px;
+  margin: 30px auto;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  background-color: beige;
+  font-weight: 100;
+  font-size: 2.6em;
+  color: black;
+  box-shadow: 4px 4px 8px;
+}
+
+#minutes {
+  font-size: 2em;
+}
+#second {
+  font-size: 2em;
+}
+#hours {
+  font-size: 2em;
+}
+#milliseconds {
+  font-size: 2em;
+}
+p {
+  color: black;
+}
+
+button {
+  background: orange;
+  color: white;
+  border: solid 1px white;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 1.2em;
+  padding: 18px 10px;
+  width: 180px;
+  margin: 10px;
+  outline: none;
+  justify-content: center;
+  text-align: center;
+}
+#btns {
+  display: flex;
+  text-align: center;
+  align-items: center;
+}
+ul {
+  font-size: 30px;
+  color: black;
+}
